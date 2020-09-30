@@ -1,5 +1,5 @@
 # web-archiver
-A tiny Python clone of https://archive.org/web/ for your own personal websites.
+A tiny useful Python clone of https://archive.org/web/ for your own personal websites.
 
 To use simply install
 
